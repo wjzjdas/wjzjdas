@@ -20,4 +20,4 @@ class Social｛
 <br/>
 
 [![JDas GitHub stats](https://github-readme-stats.vercel.app/api?username=wjzjdas&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjzjdas&theme=transparent&langs_count=10&layout=compact&hide=tex,HTML,CSS,Verilog,Makefile,Mathematica,Scheme)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjzjdas&theme=transparent&langs_count=10&layout=compact&hide=tex,Verilog,Makefile,Mathematica,Scheme)](https://github.com/anuraghazra/github-readme-stats)
