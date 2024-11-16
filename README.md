@@ -11,10 +11,10 @@ Feel free to reach out to me for any questions. I'm always glad to help!
 ```
 class Social｛
    public˸
-     string Discord ＝ ＂Wjzjdas＃0709＂;
-     long int QQ ＝ 3598876804;
+     string Discord = ＂Wjzjdas＃0709＂;
+     long int QQ = 3598876804;
      string email = "eddiefan050804@gmail.com"
-     string Bilibili ＝ ＂欸？我的频道？不，那只是一片汪洋~＂;
+     string Bilibili = ＂欸？我的频道？不，那只是一片汪洋~＂;
 ｝
 ```
 <br/>
