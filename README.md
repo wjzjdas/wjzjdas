@@ -10,19 +10,19 @@ Feel free to reach out to me for any questions. I'm always glad to help!
 #### 📫 Contact:
 class Social｛
 <br/>
- public˸
+   public˸
  <br/>
- string Discord ＝ ＂Wjzjdas＃0709＂;
+     string Discord ＝ ＂Wjzjdas＃0709＂;
  <br/>
- long int QQ ＝ 3598876804;
+     long int QQ ＝ 3598876804;
  <br/>
- string email = "eddiefan050804@gmail.com"
+     string email = "eddiefan050804@gmail.com"
  <br/>
- string Bilibili ＝ ＂欸？我的频道？不，那只是一片汪洋~＂;
+     string Bilibili ＝ ＂欸？我的频道？不，那只是一片汪洋~＂;
  <br/>
 ｝
 
 <br/>
 
-[![JiaCheng2004 GitHub stats](https://github-readme-stats.vercel.app/api?username=wjzjdas&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
+[![JDas GitHub stats](https://github-readme-stats.vercel.app/api?username=wjzjdas&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjzjdas&theme=transparent&layout=compact&hide=shaderlab,c%23)](https://github.com/anuraghazra/github-readme-stats)
