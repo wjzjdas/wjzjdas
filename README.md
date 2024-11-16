@@ -8,20 +8,15 @@ I'm currently a Electrical and Computer Engineering B.S. major undergraduate in 
 
 Feel free to reach out to me for any questions. I'm always glad to help!
 #### 📫 Contact:
+```
 class Social｛
-<br/>
    public˸
- <br/>
      string Discord ＝ ＂Wjzjdas＃0709＂;
- <br/>
      long int QQ ＝ 3598876804;
- <br/>
      string email = "eddiefan050804@gmail.com"
- <br/>
      string Bilibili ＝ ＂欸？我的频道？不，那只是一片汪洋~＂;
- <br/>
 ｝
-
+```
 <br/>
 
 [![JDas GitHub stats](https://github-readme-stats.vercel.app/api?username=wjzjdas&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
