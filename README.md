@@ -1,6 +1,6 @@
 ### Hello World! I'm JDas 👋
 
-Currently a Electrical and Computer Engineering B.S. major undergraduate in University of Toronto, working on projects that focus on performance and user experience. Currently Open for Hiring!
+Currently an Electrical and Computer Engineering B.S. major undergraduate in University of Toronto, working on projects that focus on game performance and user experience. Currently Open for Hiring!
 
 #### 🔭 Current Projects:
   - [chatroom (Vue.JS/Node.JS/Currently set to private)](private)
