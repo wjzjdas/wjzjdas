@@ -4,7 +4,8 @@ Currently an Electrical and Computer Engineering B.S. major undergraduate in Uni
 
 #### 🔭 Current Projects:
   - [chatroom (Vue.JS/Node.JS/Currently set to private)](private)
-  - [Undertale3 (Verilog/VGA)](https://github.com/wjzjdas/undertale3)
+  - [Undertale3 (RISC-V/Verilog)](https://github.com/wjzjdas/undertale3)
+  - [Train World (RISC-V/C/Python)](https://github.com/wjzjdas/Train-World)
 
 Feel free to reach out to me for any questions. I'm always glad to help!
 #### 📫 Contact:
