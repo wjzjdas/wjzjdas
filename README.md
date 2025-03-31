@@ -2,9 +2,9 @@
 
 Currently an Electrical and Computer Engineering B.S. major undergraduate in University of Toronto, working on projects that focus on game performance and user experience. Currently Open for Hiring!
 
-#### 🔭 Current Projects:
-  - [Undertale3 (RISC-V/Verilog)](https://github.com/wjzjdas/undertale3)
-  - [Train World (RISC-V/C/Python)](https://github.com/wjzjdas/Train-World)
+#### 🔭 Current Games / Projects:
+  - [Train World (RISC-V/C/Python)](https://github.com/wjzjdas/Train-World) Playable Online!
+  - [Undertale3 (RISC-V/Verilog)](https://github.com/wjzjdas/undertale3) Needs Physical Setup to Play.
 
 Feel free to reach out to me for any questions. I'm always glad to help!
 #### 📫 Contact:
