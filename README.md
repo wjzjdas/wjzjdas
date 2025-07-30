@@ -1,6 +1,6 @@
 ### Hello World! I'm JDas 👋
 
-Currently an Electrical and Computer Engineering B.S. major undergraduate in University of Toronto, working on projects that focus on game performance and user experience. Currently Open for Hiring!
+Currently an Electrical and Computer Engineering B.S. major undergrad in University of Toronto, working on New Games and Videos...
 
 #### 🔭 Current Games / Projects:
   - [Train World (RISC-V/C/Python)](https://github.com/wjzjdas/Train-World) Playable Online! 
